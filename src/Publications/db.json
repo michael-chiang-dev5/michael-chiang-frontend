@@ -1,13 +1,17 @@
 {
     "publications": [
       {
-        "title": "My First Blog",
-        "authors": "mario",
+        "title": " Control of C. elegans germline stem cell cycling speed meets requirements of design to minimize mutation accumulation.",
+        "authors": "Michael Chiang, Amanda Cinquin, Adrian Paz, Edward Meeds, Christopher A. Price, Max Welling, and Olivier Cinquin.",
+        "journal": "BMC Biology 2015; 13(1):51. DOI: 10.1186/s12915-015-0148-y.",
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26187634/",
         "id": 1
       },
       {
-        "title": "Opening Party!",
-        "authors": "yoshi",
+        "title": "Analysis of in vivo single cell behavior by high throughput, human-in-the-loop segmentation of three-dimensional images.",
+        "authors": "Michael Chiang, Sam Hallman, Amanda Cinquin, Nabora Reyes de Mochel, Adrian Paz, Shimako Kawauchi, Anne L. Calof, Ken W. Cho, Charless C. Fowlkes and Olivier Cinquin.",
+        "journal": "BMC Bioinformatics 2015; 16:397. DOI: 10.1186/s12859-015-0814-7.",
+        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26607933/",
         "id": 2
       }
     ]

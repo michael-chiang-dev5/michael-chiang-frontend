@@ -1,0 +1,35 @@
+article {
+    padding-bottom: 3%;
+}
+
+.title {
+    color: #2970A6;
+    font-weight: bold;
+    font-family: Verdana,"BitStream vera Sans",Helvetica,Sans-serif;
+    font-size: 12px;    
+}
+
+.authors {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #333;
+    font-size: 12px;
+    line-height: 145%;
+    padding-left: 3%;
+}
+
+.journal {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #333;
+    font-size: 12px;  
+    line-height: 145%;  
+    padding-left: 3%;
+
+}
+
+.links {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #333;
+    font-size: 12px;  
+    line-height: 145%;  
+    padding-left: 3%;
+}

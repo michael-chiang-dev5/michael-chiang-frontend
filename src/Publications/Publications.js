@@ -1,3 +1,5 @@
+import './publications.css';
+
 const Publications = () => {
     let json = require('./db.json')
     const arr = json['publications']
@@ -7,9 +9,10 @@ const Publications = () => {
 
             {arr.map( (publication)=>{
                 return <article key={publication.id}>
-                    <div>{publication.title}</div>
-                    <div>{publication.authors}</div>
-                    <div><a href=''>pubmed</a></div>
+                    <div className="title">{publication.title}</div>
+                    <div className="authors">{publication.authors}</div>
+                    <div className="journal">{publication.journal}</div>
+                    <div className="links"><a href={publication.pubmed_url}>pubmed</a></div>
                 </article>
             })}
         </div>
