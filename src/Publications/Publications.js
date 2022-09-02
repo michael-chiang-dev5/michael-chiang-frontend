@@ -1,7 +1,7 @@
 import './publications.css';
 
 const Publications = () => {
-    let json = require('./db.json')
+    let json = require('./publications.json')
     const arr = json['publications']
     return ( 
         <div className="publications">

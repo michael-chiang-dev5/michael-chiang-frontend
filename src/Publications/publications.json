@@ -1,53 +1,88 @@
 {
   "publications": [
     {
+      "title": " Glaucoma Expert-Level Detection of Angle Closure in Goniophotographs With Convolutional Neural Networks: The Chinese American Eye Study",
+      "authors": "Michael Chiang, Daniel Guth, Anmol A. Pardeshi, Jasmeen Randhawa, Alice Shen, Meghan Shan, Justin Dredge, Annie Nguyen, Kimberly Gokoffski, Brandon J. Wong, Brian Song, Shan Lin, Rohit Varma, Benjamin Y. Xu",
+      "journal": "American Journal of Ophthalmology 226 (2021): 100-107.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33577791/",
+      "id": 1
+    },
+    {
       "title": " Control of C. elegans germline stem cell cycling speed meets requirements of design to minimize mutation accumulation.",
       "authors": "Michael Chiang, Amanda Cinquin, Adrian Paz, Edward Meeds, Christopher A. Price, Max Welling, and Olivier Cinquin.",
       "journal": "BMC Biology 2015; 13(1):51. DOI: 10.1186/s12915-015-0148-y.",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26187634/",
-      "id": 1
+      "id": 2
     },
     {
       "title": "Analysis of in vivo single cell behavior by high throughput, human-in-the-loop segmentation of three-dimensional images.",
       "authors": "Michael Chiang, Sam Hallman, Amanda Cinquin, Nabora Reyes de Mochel, Adrian Paz, Shimako Kawauchi, Anne L. Calof, Ken W. Cho, Charless C. Fowlkes and Olivier Cinquin.",
       "journal": "BMC Bioinformatics 2015; 16:397. DOI: 10.1186/s12859-015-0814-7.",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26607933/",
-      "id": 2
+      "id": 3
     },
+    {
+      "title": "Anterior segment biometric measurements explain misclassifications by a deep learning classifier for detecting gonioscopic angle closure",
+      "authors": "Alice Shen, Michael Chiang, Anmol A. Pardeshi, Roberta McKean-Cowdin, Rohit Varma, Benjamin Y. Xu",
+      "journal": "British Journal of Ophthalmology (2021).",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34615666/",
+      "id": 4
+    },    
+    {
+      "title": " Deep Neural Network for Scleral Spur Detection in Anterior Segment OCT Images: The Chinese American Eye Study",
+      "authors": "Benjamin Y. Xu; Michael Chiang; Anmol A. Pardeshi; Sasan Moghimi; Rohit Varma",
+      "journal": "Translational vision science & technology 9, no. 2 (2020): 18-18.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32818079/",
+      "id": 5
+    },
+    {
+      "title": " Deep Learning Classifiers for Automated Detection of Gonioscopic Angle Closure Based on Anterior Segment OCT Images ",
+      "authors": "Benjamin Y. Xu, Michael Chiang, Shreyasi Chaudhary, Shraddha Kulkarni, Anmol A. Pardeshi, Rohit Varma",
+      "journal": "American journal of ophthalmology 208 (2019): 273-280.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31445003/",
+      "id": 6
+    },
+    {
+      "title": "Generalisability and performance of an OCT-based deep learning classifier for community-based and hospital-based detection of gonioscopic angle closure",
+      "authors": "Jasmeen Randhawa1, Michael Chiang, Natalia Porporato, Anmol A Pardeshi, Justin Dredge, Galo Apolo Aroca, Tin A. Tun, Joanne HuiMin Quah, Marcus Tan, Risa Higashita, Tin Aung, Rohit Varma, Benjamin Y. Xu",
+      "journal": "British Journal of Ophthalmology (2021).",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34670749/",
+      "id": 7
+    },    
     {
       "title": " Intermittent stem cell cycling balances self-renewal and senescence of the C. elegans germ line.",
       "authors": "Amanda Cinquin, Michael Chiang, Adrian Paz, Sam Hallman, Oliver Yuan, Indre Vysniauskaite, Charless Fowlkes and Olivier Cinquin.",
       "journal": " PLOS Genetics 2016; 12(4):e1005985. DOI: 10.1371/journal.pgen.1005985.",
       "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27077385/",
-      "id": 3
+      "id": 8
     },
     {
       "title": "POPE: post optimization posterior evaluation of likelihood free models.",
       "authors": "Edward Meeds, Michael Chiang, Mary Lee, Olivier Cinquin, John Lowengrub and Max Welling.",
       "journal": "BMC Bioinformatics 2015; 16:264. DOI: 10.1186/s12859-015-0658-1",
       "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/26289041/",
-      "id": 4
+      "id": 9
     },
     {
-      "title": " BMP signaling is required for cell cleavage in preimplantation-mouse embryos. ",
+      "title": "BMP signaling is required for cell cleavage in preimplantation-mouse embryos. ",
       "authors": "Nabora Soledad Reyes de Mochel, Mui Luong, Michael Chiang, Anna L. Javier, Elizabeth Luu, Fujimori Toshihiko, Grant R. MacGregor, Olivier Cinquin and Ken W.Y. Cho. ",
       "journal": "Developmental Biology, 397(1), 45-55. DOI:10.1016/j.ydbio.2014.10.001 ",
       "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/25446538/",
-      "id": 5
+      "id": 10
     },
     {
-      "title": " Semi-permeable diffusion barriers enhance patterning robustness in the C. elegans germ line. ",
+      "title": "Semi-permeable diffusion barriers enhance patterning robustness in the C. elegans germ line. ",
       "authors": "Amanda Cinquin, Likun Zheng, Pete H. Taylor, Adrian Paz, Lei Zhang, Michael Chiang, Joshua J. Snow, Qing Nie and Olivier Cinquin. ",
       "journal": "Developmental Cell, 35(4), 405-417. DOI: http://dx.doi.org/10.1016/j.devcel.2015.10.027 ",
       "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/26289041/",
-      "id": 6
+      "id": 11
     },
     {
-      "title": " Gene Expression Noise Enhances Robust Organization of the Early Mammalian Blastocyst ",
+      "title": "Gene Expression Noise Enhances Robust Organization of the Early Mammalian Blastocyst ",
       "authors": "William Holmes, Nabora Soledad Reyes de Mochel, Qixuan Wang, Huijing Du, Tao Peng, Michael Chiang, Olivier Cinquin, Ken Cho, and Qing Nie. ",
       "journal": "PLOS Computational Biology, 13(1), e1005320. DOI: http://dx.doi.org/10.1371/journal.pcbi.1005320. ",
       "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/28114387/",
-      "id": 7
+      "id": 12
     }
   ]
 }
