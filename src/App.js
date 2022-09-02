@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import React from "react"
+import { BrowserRouter, Routes ,Route } from 'react-router-dom';
 import './App.css';
 import Home from './Home/Home';
 import Navbar from './Navbar/Navbar';
@@ -6,26 +7,16 @@ import Publications from './Publications/Publications';
 
 function App() {
   return (    
-
-    <Router>
+    <BrowserRouter>
     <div className="App">
       <Navbar />
-      <Switch>
-        <Route exact path='/'>
-          <Home />
-        </Route>
-      </Switch>
-      <Switch>
-        <Route exact path='/publications'>          
-        <Publications />
-        </Route>
-      </Switch>
-      <Switch>
-        <Route exact path='/portfolio'>
-        </Route>
-      </Switch>
+      <Routes>
+        <Route exact path='/' element={<Home />} />
+        <Route exact path='/publications' element={<Publications />} />          
+        <Route exact path='/portfolio' element={<Home />} />
+      </Routes>
     </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 

@@ -1,4 +1,5 @@
 import './publications.css';
+import React from "react"
 
 const Publications = () => {
     let json = require('./publications.json')
