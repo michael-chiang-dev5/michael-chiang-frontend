@@ -1,18 +1,53 @@
 {
-    "publications": [
-      {
-        "title": " Control of C. elegans germline stem cell cycling speed meets requirements of design to minimize mutation accumulation.",
-        "authors": "Michael Chiang, Amanda Cinquin, Adrian Paz, Edward Meeds, Christopher A. Price, Max Welling, and Olivier Cinquin.",
-        "journal": "BMC Biology 2015; 13(1):51. DOI: 10.1186/s12915-015-0148-y.",
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26187634/",
-        "id": 1
-      },
-      {
-        "title": "Analysis of in vivo single cell behavior by high throughput, human-in-the-loop segmentation of three-dimensional images.",
-        "authors": "Michael Chiang, Sam Hallman, Amanda Cinquin, Nabora Reyes de Mochel, Adrian Paz, Shimako Kawauchi, Anne L. Calof, Ken W. Cho, Charless C. Fowlkes and Olivier Cinquin.",
-        "journal": "BMC Bioinformatics 2015; 16:397. DOI: 10.1186/s12859-015-0814-7.",
-        "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26607933/",
-        "id": 2
-      }
-    ]
-  }
+  "publications": [
+    {
+      "title": " Control of C. elegans germline stem cell cycling speed meets requirements of design to minimize mutation accumulation.",
+      "authors": "Michael Chiang, Amanda Cinquin, Adrian Paz, Edward Meeds, Christopher A. Price, Max Welling, and Olivier Cinquin.",
+      "journal": "BMC Biology 2015; 13(1):51. DOI: 10.1186/s12915-015-0148-y.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26187634/",
+      "id": 1
+    },
+    {
+      "title": "Analysis of in vivo single cell behavior by high throughput, human-in-the-loop segmentation of three-dimensional images.",
+      "authors": "Michael Chiang, Sam Hallman, Amanda Cinquin, Nabora Reyes de Mochel, Adrian Paz, Shimako Kawauchi, Anne L. Calof, Ken W. Cho, Charless C. Fowlkes and Olivier Cinquin.",
+      "journal": "BMC Bioinformatics 2015; 16:397. DOI: 10.1186/s12859-015-0814-7.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26607933/",
+      "id": 2
+    },
+    {
+      "title": " Intermittent stem cell cycling balances self-renewal and senescence of the C. elegans germ line.",
+      "authors": "Amanda Cinquin, Michael Chiang, Adrian Paz, Sam Hallman, Oliver Yuan, Indre Vysniauskaite, Charless Fowlkes and Olivier Cinquin.",
+      "journal": " PLOS Genetics 2016; 12(4):e1005985. DOI: 10.1371/journal.pgen.1005985.",
+      "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27077385/",
+      "id": 3
+    },
+    {
+      "title": "POPE: post optimization posterior evaluation of likelihood free models.",
+      "authors": "Edward Meeds, Michael Chiang, Mary Lee, Olivier Cinquin, John Lowengrub and Max Welling.",
+      "journal": "BMC Bioinformatics 2015; 16:264. DOI: 10.1186/s12859-015-0658-1",
+      "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/26289041/",
+      "id": 4
+    },
+    {
+      "title": " BMP signaling is required for cell cleavage in preimplantation-mouse embryos. ",
+      "authors": "Nabora Soledad Reyes de Mochel, Mui Luong, Michael Chiang, Anna L. Javier, Elizabeth Luu, Fujimori Toshihiko, Grant R. MacGregor, Olivier Cinquin and Ken W.Y. Cho. ",
+      "journal": "Developmental Biology, 397(1), 45-55. DOI:10.1016/j.ydbio.2014.10.001 ",
+      "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/25446538/",
+      "id": 5
+    },
+    {
+      "title": " Semi-permeable diffusion barriers enhance patterning robustness in the C. elegans germ line. ",
+      "authors": "Amanda Cinquin, Likun Zheng, Pete H. Taylor, Adrian Paz, Lei Zhang, Michael Chiang, Joshua J. Snow, Qing Nie and Olivier Cinquin. ",
+      "journal": "Developmental Cell, 35(4), 405-417. DOI: http://dx.doi.org/10.1016/j.devcel.2015.10.027 ",
+      "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/26289041/",
+      "id": 6
+    },
+    {
+      "title": " Gene Expression Noise Enhances Robust Organization of the Early Mammalian Blastocyst ",
+      "authors": "William Holmes, Nabora Soledad Reyes de Mochel, Qixuan Wang, Huijing Du, Tao Peng, Michael Chiang, Olivier Cinquin, Ken Cho, and Qing Nie. ",
+      "journal": "PLOS Computational Biology, 13(1), e1005320. DOI: http://dx.doi.org/10.1371/journal.pcbi.1005320. ",
+      "pubmed_url": "http://www.ncbi.nlm.nih.gov/pubmed/28114387/",
+      "id": 7
+    }
+  ]
+}

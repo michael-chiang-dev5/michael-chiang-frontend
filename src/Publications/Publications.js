@@ -10,7 +10,11 @@ const Publications = () => {
             {arr.map( (publication)=>{
                 return <article key={publication.id}>
                     <div className="title">{publication.title}</div>
-                    <div className="authors">{publication.authors}</div>
+                    <div className="authors">
+                        {publication.authors.split("Michael Chiang")[0]}
+                        <b>Michael Chiang</b>
+                        {publication.authors.split("Michael Chiang")[1]}                        
+                    </div>
                     <div className="journal">{publication.journal}</div>
                     <div className="links"><a href={publication.pubmed_url}>pubmed</a></div>
                 </article>
