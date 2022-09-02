@@ -8,6 +8,10 @@ article:hover{
     box-shadow: 0px 0px 50px rgba(0,0,0,0.5);
 }
 
+h2 {
+    color:#2970A6;
+}
+
 .title {
     color: #2970A6;
     font-weight: bold;
