@@ -1,13 +1,10 @@
 import './App.css';
-import Publications from './Publications';
+import Publications from './Publications/Publications';
 
 function App() {
   return (
     <div className="App">
-      <h2>Hello world</h2>
-
-    <Publications />
-
+      <Publications />
     </div>
   );
 }

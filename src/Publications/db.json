@@ -1,0 +1,14 @@
+{
+    "publications": [
+      {
+        "title": "My First Blog",
+        "authors": "mario",
+        "id": 1
+      },
+      {
+        "title": "Opening Party!",
+        "authors": "yoshi",
+        "id": 2
+      }
+    ]
+  }
